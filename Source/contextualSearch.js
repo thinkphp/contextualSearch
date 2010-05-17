@@ -67,8 +67,10 @@ var contextualSearch = new Class({
             // create the YQL statement 
             yqlQuery = 'select title,url,abstract from search.web where query="' + input + '" and  sites="'+this.options.site+'"';
 
+            //assemble URL for REST
             url = root + encodeURIComponent(yqlQuery) + '&format=json';
 
+            //make request JSONP
             new Request.JSONP({
 
                 url: url,
