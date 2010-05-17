@@ -13,7 +13,7 @@ requires:
 core/1.2.1: '*'
 
 provides:
-- contextSearch
+- instance contextualSearch
 
 */
 
@@ -61,9 +61,10 @@ var contextualSearch = new Class({
             // this gets the user input for the search
             var input = $('search-input').get('value'),
 
+            //make the endopoint YQL
             root = "http://query.yahooapis.com/v1/public/yql?q=",
 
-            // make the YQL call. Use the path var from above and what the user has typed into the input box
+            // create the YQL statement 
             yqlQuery = 'select title,url,abstract from search.web where query="' + input + '" and  sites="'+this.options.site+'"';
 
             url = root + encodeURIComponent(yqlQuery) + '&format=json';
