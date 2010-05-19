@@ -1,7 +1,6 @@
 /*
 ---
-description: ContextualSearch is a small but a powerful MooTools plugin 
-             that allows you to make searching within a set of documentation.
+description: ContextualSearch is a small but a powerful MooTools plugin that allows you to make searching within a set of documentation.
 
 authors:
 - Adrian Statescu (http://thinkphp.ro)
@@ -11,8 +10,7 @@ license:
 
 requires:
  core/1.2.1: '*'
-
-provides: contextualSearch
+provides: [contextualSearch]
 
 ...
 */
