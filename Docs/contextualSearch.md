@@ -35,8 +35,8 @@ Dependencies
       MooTools Core 1.2.4
       MooTools More: Request.JSONP
 
-Class: contextualSearch
-=======================      
+Class
+===================      
 
 ** Implements: **
 
