@@ -1,5 +1,6 @@
 contextualSearch
 ================
+
 contextualSeach is a solution that allows you to supports searching within a set of documentation.
 
 ![Screenshot](http://farm5.static.flickr.com/4043/4589287717_19587310ee_o.png)
