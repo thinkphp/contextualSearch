@@ -10,11 +10,11 @@ license:
 - MIT-style license
 
 requires:
-core/1.2.1: '*'
+ core/1.2.1: '*'
 
-provides:
-- instance contextualSearch
+provides: [contextualSearch]
 
+...
 */
 
 var contextualSearch = new Class({
