@@ -32,7 +32,7 @@ options - initial options for the class.
 
 ** Events **
 
-* request - function to execute when make a search.
+* request - the function to execute when you make a search.
 
 Signature: onRequest()
 
