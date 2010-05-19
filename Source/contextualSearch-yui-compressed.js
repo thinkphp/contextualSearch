@@ -12,7 +12,7 @@ license:
 requires:
  core/1.2.1: '*'
 
-provides: [contextualSearch]
+provides: contextualSearch
 
 ...
 */
