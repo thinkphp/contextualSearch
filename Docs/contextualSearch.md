@@ -32,11 +32,11 @@ options - initial options for the class.
 
 ** Events **
 
-* request - the function to execute when you make a search.
+* request - this event is fired whenever is made a request.
 
 Signature: onRequest()
 
-* complete - the function to be called when the results is returned.
+* complete - this event is fired whenever the request has been completed.
 
 Signature: onComplete(searchResults)  
 
