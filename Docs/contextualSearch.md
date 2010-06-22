@@ -36,7 +36,7 @@ options - initial options for the class.
 
 Signature: onRequest()
 
-* complete - this event is fired whenever the request has been completed.
+* complete - this event is fired whenever the request has been completed and the actually instance receives a response from the server. It is passed one argument: searchResults (Object)
 
 Signature: onComplete(searchResults)  
 
