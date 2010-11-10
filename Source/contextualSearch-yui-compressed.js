@@ -9,7 +9,9 @@ license:
 - MIT-style license
 
 requires:
- core/1.2.1: '*'
+ core/1.3: '*'
+ more/1.3.0.1: Request.JSONP
+
 provides: [contextualSearch]
 
 ...
