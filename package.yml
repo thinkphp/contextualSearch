@@ -4,4 +4,4 @@ current: v1.0
 category: Request
 tags:  [search,widget,form,request,yql,boss,interface,contextual,jsonp]
 docs:  http://github.com/thinkphp/contextualSearch/blob/master/Docs/contextualSearch.md
-demo:  http://thinkphp.ro/apps/js-hacks/contextualSearch/mootools/v1.1/
+demo:  http://thinkphp.github.com/contextualSearch/
