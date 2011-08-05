@@ -36,6 +36,6 @@ Dependencies:
 
 In Action:  
 
-      1. [http://thinkphp.ro/apps/js-hacks/contextualSearch/google/mootools/v1.3.1/](http://thinkphp.ro/apps/js-hacks/contextualSearch/google/mootools/v1.3.1/)
+      1. [http://thinkphp.ro/apps/js-hacks/contextualSearch/google/mootools/v1.3.1/] (http://thinkphp.ro/apps/js-hacks/contextualSearch/google/mootools/v1.3.1/)
 
-      2. [http://thinkphp.ro/apps/js-hacks/contextualSearch/google/mootools/v1.3/](http://thinkphp.ro/apps/js-hacks/contextualSearch/google/mootools/v1.3/) 
+      2. [http://thinkphp.ro/apps/js-hacks/contextualSearch/google/mootools/v1.3/] (http://thinkphp.ro/apps/js-hacks/contextualSearch/google/mootools/v1.3/) 
