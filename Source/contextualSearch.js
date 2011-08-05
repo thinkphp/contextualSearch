@@ -13,9 +13,8 @@ requires:
 core/1.3.2: '*'
 more/1.3.0.1: Request.JSONP
 
-provides:
-- instance of contextualSearch
-
+provides: [instance of contextualSearch]
+...
 */
 
 var contextualSearch = new Class({
