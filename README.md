@@ -29,8 +29,12 @@ In your HTML source:
        <div id="container"></div>
 
 
-Dependencies
+Dependencies:
 
       MooTools Core 1.3
       MooTools More: Request.JSONP
-  
+
+In Action:  
+
+      [http://thinkphp.ro/apps/js-hacks/contextualSearch/google/mootools/v1.3.1/](http://thinkphp.ro/apps/js-hacks/contextualSearch/google/mootools/v1.3.1/)
+      [http://thinkphp.ro/apps/js-hacks/contextualSearch/google/mootools/v1.3/](http://thinkphp.ro/apps/js-hacks/contextualSearch/google/mootools/v1.3/) 
